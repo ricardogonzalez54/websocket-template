@@ -1,0 +1,8 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar directorios de caché de Python
+__pycache__/
+
+# Ignorar directorio del entorno virtual
+env/
